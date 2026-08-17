@@ -113,12 +113,12 @@ Building real-world applications, experimenting with AI, and turning ideas into 
 
 <div align="center">
 
-<a href="https://github.com/Shreyas-coding-master001">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured project 1" />
+<a href="https://github.com/Shreyas-coding-master001/Moodify-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=Moodify-Project&theme=tokyonight&hide_border=true" alt="Moodify Project" />
 </a>
 
 <a href="https://github.com/Shreyas-coding-master001">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured project 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=My_OS_Portfolio&theme=tokyonight&hide_border=true" alt="My OS portfolio" />
 </a>
 
 </div>
