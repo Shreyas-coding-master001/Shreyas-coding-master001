@@ -12,7 +12,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Shreyas-coding-master001
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2339FF14&color_dots=%23161b22,%230d5c0d,%2300b300,%2339ff14,%23aaff00
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
