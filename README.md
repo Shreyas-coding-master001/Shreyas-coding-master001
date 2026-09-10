@@ -83,7 +83,7 @@ Building real-world applications, experimenting with AI, and turning ideas into 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyas-coding-master001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+<img src="https://github-readme-stats-seven-nu-15.vercel.app/api?username=Shreyas-coding-master001&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
 
 <img src="https://streak-stats.demolab.com?user=Shreyas-coding-master001&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak" />
 
@@ -93,7 +93,7 @@ Building real-world applications, experimenting with AI, and turning ideas into 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-coding-master001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+<img src="https://github-readme-stats-seven-nu-15.vercel.app/api/top-langs/?username=Shreyas-coding-master001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
 
 </div>
 
@@ -103,7 +103,7 @@ Building real-world applications, experimenting with AI, and turning ideas into 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-coding-master001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph-ten-vert.vercel.app/graph?username=Shreyas-coding-master001&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph" />
 
 </div>
 
@@ -114,11 +114,11 @@ Building real-world applications, experimenting with AI, and turning ideas into 
 <div align="center">
 
 <a href="https://github.com/Shreyas-coding-master001/Moodify-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=Moodify-Project&theme=tokyonight&hide_border=true" alt="Moodify Project" />
+  <img src="https://github-readme-stats-seven-nu-15.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=Moodify-Project&theme=tokyonight&hide_border=true" alt="Moodify Project" />
 </a>
 
 <a href="https://github.com/Shreyas-coding-master001/My_OS_Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=My_OS_Portfolio&theme=tokyonight&hide_border=true" alt="My OS portfolio" />
+  <img src="https://github-readme-stats-seven-nu-15.vercel.app/api/pin/?username=Shreyas-coding-master001&repo=My_OS_Portfolio&theme=tokyonight&hide_border=true" alt="My OS portfolio" />
 </a>
 
 </div>
